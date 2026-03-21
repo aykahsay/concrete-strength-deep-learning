@@ -75,14 +75,15 @@ The objectives of this project are:
 concrete-strength-deep-learning/
 │
 ├── data/
-│ └── Concrete_Data.csv
+│   └── Concrete_Data.csv
 │
 ├── notebooks/
-│ └── concrete_model.ipynb
+│   └── concrete_model.ipynb
 │
 ├── src/
-│ └── model.py
+│   └── model.py
 │
+├── requirements.txt
 ├── README.md
 
 
