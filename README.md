@@ -89,7 +89,17 @@ concrete-strength-deep-learning/
 
 ---
 
-## 6. Installation
+## 6. Process
+Data & Model Setup: High-Level Plan
+Load CSV
+    ↓
+Extract inputs & targets
+    ↓
+Standardize features (mean=0, std=1)
+    ↓
+Split into 80% train, 20% test
+    ↓
+Initialize W and b with gradient tracking
 
 Clone the repository:
 
