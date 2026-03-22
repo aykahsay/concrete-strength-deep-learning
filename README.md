@@ -101,8 +101,6 @@ Split into 80% train, 20% test
     ↓
 Initialize W and b with gradient tracking
 
-Clone the repository:
-
 ## 7. Usage
 
 Run the notebook
